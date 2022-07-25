@@ -1,0 +1,12 @@
+cinnamon roll application
+
+design an app/webpage showing cinnamon rolls that I make selling them at local farmers markets.
+
+
+Create an app tracking my day trades
+
+Design an app where I can input/track information (date, ticker, otc/listed, shares, entry, exit, time, profit/loss, % gain, pattern) and where it will update or output information automatically like my avg win and avg loss, track the biggest wins/losses instead of me having to update it manually.  
+
+
+
+
